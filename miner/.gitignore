@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+*.pickle
+public-data
+private-data
+
