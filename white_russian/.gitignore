@@ -1,0 +1,5 @@
+*.sage.py
+*.pyc
+__pycache__
+*.pickle
+
