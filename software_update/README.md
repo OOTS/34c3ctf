@@ -8,9 +8,11 @@ Files given during the CTF:
 * public\_key.der
 
 Internal Helpers:
-* signer.py (used to repeatable generate new keys and a valid sw\_update.zip file)
+* signer.py (used to repeatably generate new keys and a valid sw\_update.zip file)
 * sw\_update (as a template for the sw\_update.zip file)
 * secret\_key.der (the secret key used for signing the zip file. I figure it doesn't hurt to release it now.)
 
 My solution:
 * solution
+
+There is a [video writeup by LifeOverflow](https://www.youtube.com/watch?v=EOlddNofKxo) for this challenge.
